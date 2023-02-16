@@ -1,4 +1,3 @@
-# Proyecto-Grupal
+# Acceso al modelo relacional de las bases de datos
 
-hola
-hola X 2
+--Aún en actualización--

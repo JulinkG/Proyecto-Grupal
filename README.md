@@ -1,4 +1,3 @@
-# Proyecto-Grupal
+# Machine Learning models
 
-hola
-hola X 2
+--Implementación de autoarimas para las variables predictoras--

@@ -1,0 +1,162 @@
+Year,Country,Returns by origin,Returns by host
+1990,Argentina,77,2
+1995,Argentina,89,3
+2000,Argentina,57,9
+2005,Argentina,40,12
+2010,Argentina,41,4
+2015,Argentina,32,3
+2020,Argentina,73,4
+1990,Barbados,0,0
+1995,Barbados,0,0
+2000,Barbados,0,0
+2005,Barbados,1,0
+2010,Barbados,1,0
+2015,Barbados,1,0
+2020,Barbados,1,0
+1990,Bolivia,225,1
+1995,Bolivia,183,1
+2000,Bolivia,53,1
+2005,Bolivia,22,2
+2010,Bolivia,15,1
+2015,Bolivia,79,1
+2020,Bolivia,21,4
+1990,Brazil,1400,10
+1995,Brazil,881,10
+2000,Brazil,815,4
+2005,Brazil,810,4
+2010,Brazil,496,1
+2015,Brazil,578,1
+2020,Brazil,1200,9
+1990,Canada,67,2000
+1995,Canada,27,1200
+2000,Canada,15,116
+2005,Canada,23,116
+2010,Canada,26,116
+2015,Canada,9,2
+2020,Canada,31,1
+1990,Chile,169,0
+1995,Chile,120,0
+2000,Chile,66,1
+2005,Chile,69,7
+2010,Chile,38,5
+2015,Chile,69,0
+2020,Chile,45,1
+1990,Colombia,320,0
+1995,Colombia,293,0
+2000,Colombia,180,0
+2005,Colombia,168,0
+2010,Colombia,205,0
+2015,Colombia,149,5
+2020,Colombia,240,3
+1990,Costa Rica,1,0
+1995,Costa Rica,7,0
+2000,Costa Rica,4,2
+2005,Costa Rica,6,27
+2010,Costa Rica,1,19
+2015,Costa Rica,4,4
+2020,Costa Rica,38,0
+1990,Ecuador,356,0
+1995,Ecuador,276,2
+2000,Ecuador,88,2
+2005,Ecuador,30,2
+2010,Ecuador,37,2
+2015,Ecuador,27,7
+2020,Ecuador,9,4
+1990,El Salvador,90,0
+1995,El Salvador,79,2
+2000,El Salvador,29,0
+2005,El Salvador,43,2
+2010,El Salvador,56,2
+2015,El Salvador,244,0
+2020,El Salvador,158,4
+1990,Guyana,3,0
+1995,Guyana,2,0
+2000,Guyana,2,0
+2005,Guyana,1,12
+2010,Guyana,5,0
+2015,Guyana,2,3
+2020,Guyana,3,1
+1990,Jamaica,8,0
+1995,Jamaica,8,0
+2000,Jamaica,18,0
+2005,Jamaica,17,0
+2010,Jamaica,3,0
+2015,Jamaica,8,0
+2020,Jamaica,15,2
+1990,Nicaragua,25,0
+1995,Nicaragua,35,4
+2000,Nicaragua,37,0
+2005,Nicaragua,48,1
+2010,Nicaragua,51,0
+2015,Nicaragua,22,0
+2020,Nicaragua,24,6
+1990,Panama,3,1
+1995,Panama,3,1
+2000,Panama,1,5
+2005,Panama,4,9
+2010,Panama,5,9
+2015,Panama,2,7
+2020,Panama,3,20
+1990,Paraguay,49,4
+1995,Paraguay,75,0
+2000,Paraguay,57,0
+2005,Paraguay,92,1
+2010,Paraguay,69,1
+2015,Paraguay,19,0
+2020,Paraguay,76,0
+1990,Peru,183,2
+1995,Peru,207,3
+2000,Peru,48,1
+2005,Peru,63,0
+2010,Peru,66,3
+2015,Peru,108,7
+2020,Peru,62,11
+1990,United States,32,0
+1995,United States,41,0
+2000,United States,22,0
+2005,United States,37,0
+2010,United States,45,2
+2015,United States,71,9
+2020,United States,189,5
+1990,Uruguay,42,0
+1995,Uruguay,33,0
+2000,Uruguay,25,5
+2005,Uruguay,22,7
+2010,Uruguay,8,1
+2015,Uruguay,6,3
+2020,Uruguay,41,15
+1990,Guatemala,28,0
+1995,Guatemala,25,2
+2000,Guatemala,17,2
+2005,Guatemala,10,0
+2010,Guatemala,8,5
+2015,Guatemala,39,73
+2020,Guatemala,10,57
+1990,Haiti,5,0
+1995,Haiti,1,0
+2000,Haiti,8,2
+2005,Haiti,485,0
+2010,Haiti,243,0
+2015,Haiti,78,2
+2020,Haiti,7,0
+1990,Honduras,95,3
+1995,Honduras,113,0
+2000,Honduras,113,0
+2005,Honduras,107,0
+2010,Honduras,103,1
+2015,Honduras,402,0
+2020,Honduras,1900,16
+1990,Mexico,56,17
+1995,Mexico,45,25
+2000,Mexico,13,7
+2005,Mexico,16,5
+2010,Mexico,18,1
+2015,Mexico,30,517
+2020,Mexico,55,2200
+1990,Venezuela,45,0
+1995,Venezuela,34,0
+2000,Venezuela,40,0
+2005,Venezuela,57,0
+2010,Venezuela,48,1
+2015,Venezuela,62,15
+2020,Venezuela,63,1

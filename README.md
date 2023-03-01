@@ -42,7 +42,8 @@ The following files are in the repository:
 - `automatizacion`: notebook file where the entire web scraping and data cleaning process is executed.
 
 # Branches <a name="proyecto"></a>
-  * `Machine_Learning_models`: In this branch you can find the machine learning models
+  * `Machine_Learning_models`: In this branch you can find the machine learning models.
+  * `Sql_relationaldata`: In this branch you can find the relational data model on sql.
 
 
 # Pipeline<a name="pipeline"></a>

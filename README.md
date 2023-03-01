@@ -4,6 +4,7 @@
  **Content:**
  ---
 
+- [How to use](#Instructions)
 - [Proyect ](#proyecto)
 - [Team ](#equipo)
 - [Respository](#repo)

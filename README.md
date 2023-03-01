@@ -10,6 +10,19 @@
 - [Respository](#repo)
 - [Pipeline](#pipeline)
 
+# Instructions <a name="Instructions"></a>
+
+* On the dashboard you can select the country.
+* Visualize the kpi´s and recomendations.
+
+## Recomendations 
+
+* Provide guidance and counseling resources to migrants prior to their arrival, such as information on employment, housing, public services and local culture.
+* Provide language classes to help migrants communicate and adjust to their new environment.
+* Guarantee access to basic services, such as health care, education and social services.
+* Provide guidance and counseling resources to migrants prior to their arrival, such as information on employment, housing, public services and local culture.
+
+
 # Proyect <a name="proyecto"></a>
 
 In this repository is the development of a project whose objective is the creation of an interactive dashboard for access to information regarding migration from 22 different countries of the American continent. Migration is the displacement of a population that occurs from one place to another and entails a change of habitual residence in the case of people. For this reason, the prediction of these events and their effects in the different countries studied is of interest to society, especially to national non-governmental organizations.

@@ -41,6 +41,9 @@ The following files are in the repository:
 - `retornos`: data of the migrants who returned to their country
 - `automatizacion`: notebook file where the entire web scraping and data cleaning process is executed.
 
+# Branches <a name="proyecto"></a>
+  * `Machine_Learning_models`: In this branch you can find the machine learning models
+
 
 # Pipeline<a name="pipeline"></a>
 ## Data extraction

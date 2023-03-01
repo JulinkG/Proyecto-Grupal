@@ -8,9 +8,6 @@
 - [Team ](#equipo-)
 - [Respository](#el-repositorio)
 - [Pipeline](#pipeline)
-- [Machine Learning Model](#modelo-de-agrupamiento-de-sismos)
-- [Recomendations](#alerta-sísmica)
-- [License](#licencia)
 
 # Proyect <a name="proyecto"></a>
 

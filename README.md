@@ -4,9 +4,9 @@
  **Content:**
  ---
 
-- [Proyect ](#el-proyecto-)
-- [Team ](#equipo-)
-- [Respository](#el-repositorio)
+- [Proyect ](#proyecto)
+- [Team ](#equipo)
+- [Respository](#repo)
 - [Pipeline](#pipeline)
 
 # Proyect <a name="proyecto"></a>
